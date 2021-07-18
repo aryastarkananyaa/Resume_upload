@@ -1,0 +1,10 @@
+#id_gender{
+    list-style-type: none;
+    display: inline-flex;
+   }
+   
+   #id_gender > li {
+    padding-left: 10px;
+   }
+   
+   
